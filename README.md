@@ -9,6 +9,9 @@ Self Study of DCGAN Using Anime Face as Dataset
 ![image](https://github.com/Motz224/DCGAN_Anime_Face_20230828/assets/82391453/c42a159f-723b-4ca0-9096-52b925e495a0)
 ### Generate Test
 ![image](https://github.com/Motz224/DCGAN_Anime_Face_20230828/assets/82391453/c6c95c1c-5451-47fe-a038-47e0311d4bab)
+## Checkpoint
+You will need a kaggle api token to access the dataset
+https://drive.google.com/drive/folders/1OM9pmJIN8ZQrEsr8ormajG2-FOucECWU?usp=drive_link
 ## Dataset
 > _https://www.kaggle.com/datasets/prasoonkottarathil/gananime-lite_
 ## Reference
